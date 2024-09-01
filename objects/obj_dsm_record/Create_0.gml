@@ -1,0 +1,10 @@
+image_speed = 0
+image_index = 0
+image_xscale = 0.5
+image_yscale = 0.5
+record0 = 0
+record1 = 0
+record2 = 0
+record3 = 0
+url = ""
+alarm[0] = 5

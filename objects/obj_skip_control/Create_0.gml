@@ -1,0 +1,31 @@
+image_speed = 0
+image_index = 0
+depth = 0
+c_cont = make_colour_rgb(89, 15, 16)
+type_consulta = 5
+url = ""
+num_rows = 0
+rows_perpage = 0
+pages = 0
+levels = 0
+page = global.pages_nm
+active = 0
+loading = 1
+rot = 0
+mensaje = ""
+codigo = ""
+pos = 54
+list_post = 1
+difficulty = 0
+level_name = ""
+creator_name = ""
+style_game = ""
+course_theme = ""
+dificultad = ("&dificultad=" + string(3))
+tiempo = ""
+historial = "&historial=1"
+reaccion = ""
+orden = ""
+search_advanced = ""
+instance_create_depth((camera_get_view_x(view_get_camera(0))+255), (camera_get_view_y(view_get_camera(0))+183),-17, obj_skip)
+alarm[0] = 5

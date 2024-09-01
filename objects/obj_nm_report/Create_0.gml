@@ -1,0 +1,10 @@
+image_speed = 0
+image_index = 0
+canpress = 0
+text = "Reportar"
+effect_hover = 0
+anim = 0
+rot = 0
+dont = 0
+time = 0
+reported = 0

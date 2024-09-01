@@ -1,0 +1,24 @@
+image_speed = 0
+image_index = 0
+type = 0
+text[0] = scr_language(129)
+text[1] = scr_language(130)
+text[2] = scr_language(131)
+text[3] = scr_language(132)
+text[4] = scr_language(133)
+text[5] = scr_language(134)
+text[6] = scr_language(135)
+text[7] = scr_language(136)
+text_data[0] = "1d"
+text_data[1] = "2d"
+text_data[2] = "3d"
+text_data[3] = "4d"
+text_data[4] = "5d"
+text_data[5] = "6d"
+text_data[6] = "7d"
+text_data[7] = "30d"
+data = ""
+press = 0
+start_y = y
+alarm[0] = 5
+

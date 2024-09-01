@@ -1,0 +1,9 @@
+image_speed = 0
+image_index = global.difficultyd
+text = scr_language(125)
+value = 0
+effect_hover = 0
+icon = 0
+anim = 0
+c_button = make_colour_rgb(0, 151, 132)
+c_colors = make_colour_rgb(0, 151, 132)
